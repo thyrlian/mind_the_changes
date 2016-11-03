@@ -4,6 +4,8 @@ Welcome to your new gem! In this directory, you'll find the files you need to be
 
 TODO: Delete this and the text above, and describe your gem
 
+<img src="https://github.com/thyrlian/mind_the_changes/blob/master/mind_the_changes.png?raw=true" width="400">
+
 ## Installation
 
 Add this line to your application's Gemfile:
