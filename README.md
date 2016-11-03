@@ -2,6 +2,8 @@
 
 Mind the code changes since last release.
 
+[![Build Status](https://travis-ci.org/thyrlian/mind_the_changes.svg?branch=master)](https://travis-ci.org/thyrlian/mind_the_changes)
+
 <img src="https://github.com/thyrlian/mind_the_changes/blob/master/mind_the_changes.png?raw=true" width="400">
 
 ## Installation
