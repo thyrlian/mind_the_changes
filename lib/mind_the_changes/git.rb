@@ -12,10 +12,12 @@ module MindTheChanges
       
       def get_commit_hash(tag)
         cmd = `git rev-list -n 1 #{tag}`
+        cmd.strip
       end
       
       def get_commit_hash_of_head
         cmd = `git rev-parse HEAD`
+        cmd.strip
       end
     end
     
