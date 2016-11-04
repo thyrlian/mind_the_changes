@@ -1,5 +1,1 @@
-require "mind_the_changes/version"
-
-module MindTheChanges
-  # Your code goes here...
-end
+Dir.glob(File.expand_path(File.dirname(__FILE__)) + '/mind_the_changes/**/*.rb').each { |file| require file }
