@@ -34,5 +34,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## License
 
-The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
+Copyright (c) 2016 Jing Li. The gem is released under the [MIT License](http://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/thyrlian/mind_the_changes/blob/master/LICENSE.txt) file for details.
